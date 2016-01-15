@@ -20,7 +20,7 @@
 |                                                                   
 | - Open CMD
 | - Run "C:\...\mongodb\bin\mongod.exe -dbpath C:\...\Assignment4\mongodb\data\db" on CMD                            
-| - Open another CMD from C:\...\Assignment4
+| - Open another CMD from C:\...\Test_Server
 | - Run "npm install"
 | - Run "app.js"
 | - Then, go to your chosen web browser and type: 
@@ -61,8 +61,8 @@
 |         --------------
 |          - Tells the user if the chosen answers is correct or not       	
 |               
-|   Part II: Student Hint Prompting
-|   -------------------------------
+|   Student Hint Prompting Feature
+|   ------------------------------
 |    - The enhancement used for part 2 of the assignment is: 
 |      student hint prompting
 |    - Once the student has selected an answer and if they are unsure 
