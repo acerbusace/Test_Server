@@ -1,17 +1,18 @@
 |====================================================================
-|                         Test Server                          
-|                         -----------                               
-|                        |README FILE|                              
-|                         -----------                               
-|	                        Alex Patel                     
+|                         Test Server
+|                         -----------
+|                        |README FILE|
+|                         -----------
+|	                        Alex Patel
 |====================================================================
-|                                                                   
+|
 |  INTRODUCTORY INFORMATION                                         
 |  ------------------------                                       
 |                                                                    
 | - Program was written and tested in Windows 10          
 | - Browser Client was tested in Chrome                                        
-| - Ran using CMD with Node                                         
+| - Ran using CMD with Node
+| - Requires MongoDB
 |                                                                   
 |                                                                   
 |  STARTING THE SERVER                                              
