@@ -63,8 +63,6 @@
 |               
 |   Student Hint Prompting Feature
 |   ------------------------------
-|    - The enhancement used for part 2 of the assignment is: 
-|      student hint prompting
 |    - Once the student has selected an answer and if they are unsure 
 |      of the chosen answer, the "hint" button can be clicked and 
 |      the server will notify the student if the chosen answer is 
